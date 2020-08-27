@@ -18,3 +18,6 @@ function greet(string) {
     return "Good Afternoon"
 }
 /* Write your implementation of displayMessage() */
+function displayMessage(strng) {
+  
+}
