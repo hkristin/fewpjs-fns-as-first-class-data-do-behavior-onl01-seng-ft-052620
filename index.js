@@ -19,5 +19,5 @@ function greet(string) {
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(strng) {
-  document.getElementById("greeting").innerText = msg;
+  document.getElementById("greeting").innerText = strng;
 }
