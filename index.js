@@ -10,4 +10,6 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
+
+function greet("HH:MM")
 /* Write your implementation of displayMessage() */
